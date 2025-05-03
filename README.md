@@ -71,7 +71,7 @@ LIMIT 10;
 
 - Salaries range from $75K to $111K, showing variation based on company, contract type, and role level.
 
-![Top Paying Jobs](assets\1_top_paying_jobs.png)
+![Top Paying Jobs](assets/1_top_paying_jobs.png)
 *This chart shows the top-paying Data Analyst job postings in the U.S., based on available salary data. Bixal leads with the highest listed offer, while other companies like Eliassen Group and Govini also offer competitive salary for this role.*
 
 ### 2. What skills are most commonly required for these top-paying jobs?
@@ -116,7 +116,7 @@ ORDER BY
 
 - Tools like SQL Server, R, and SharePoint appeared in several listings, showing that familiarity with business intelligence platforms and statistical tools is also valued.
 
-![Top Paying Jobs Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Jobs Skills](assets/2_top_paying_job_skills.png)
 *This chart highlights the top 5 most frequently requested skills in high-paying Data Analyst roles. SQL leads by a wide margin, with Python, Excel, Power BI, and R also appearing regularly in job listings.*
 
 ### 3. Which skills are currently in highest demand across the market?
@@ -148,7 +148,7 @@ LIMIT 5;
 
 - **Tableau** and **Power BI** round out the top 5, showing that data visualization skills are highly valued by employers across the board.
 
-![Top Demanded Skills](assets\3_top_demanded_skills_market.png)
+![Top Demanded Skills](assets/3_top_demanded_skills_market.png)
 *This chart displays the most in-demand skills across the entire Data Analyst job market. SQL dominates by a wide margin, followed by Excel and Python, reinforcing their status as essential tools in the industry.*
 
 ### 4. How do certain skills influence salary within a given role?
